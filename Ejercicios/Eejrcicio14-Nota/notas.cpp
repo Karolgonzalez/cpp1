@@ -19,19 +19,19 @@ int main (int argc, char const *argv[])
      cout <<( "Obtuviste una B+");
     }
     if (nota >= 84 && nota <=74){
-     cout <<( "Obtuviste una B+");
-    }
-    if (nota >= 70 && nota <=75){
      cout <<( "Obtuviste una B");
     }
-    if (nota >= 65 && nota <=70){
+    if (nota >= 70 && nota <=75){
      cout <<( "Obtuviste una B-");
+    }
+    if (nota >= 65 && nota <=70){
+     cout <<( "Obtuviste una C+");
     }
     if (nota >= 60 && nota <=65){
      cout <<( "Obtuviste una C");
     }
-    if (nota >= 50 && nota <=54){
-     cout <<( "Obtuviste una C-");
+    if (nota >= 50 && nota <=55){
+     cout <<( "Obtuviste una C");
     }
     if (nota >= 55 && nota <=50){
      cout <<( "Obtuviste una C-");
