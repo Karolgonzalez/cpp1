@@ -20,7 +20,6 @@ int main(int argc, char const *argv[])
         case 2:
         cout << "Escogiste 2"<<endl;
         break;
-    }
         case 3:
             cout << "Escogiste 3"<<endl;
             break;
