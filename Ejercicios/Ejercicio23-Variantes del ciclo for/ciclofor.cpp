@@ -6,7 +6,7 @@ int main(int argc, char const *argv[]){
     {
         for(int i = 0; i < 10; i++)
         {
-            cout < i << " ";
+            cout << i << " ";
         }
         cout << endl;
         cout << endl;
@@ -18,7 +18,7 @@ int main(int argc, char const *argv[]){
         cout << endl;
           for(int i = 0; i < 1000000; i++)
         {
-            cout < i << " ";
+            cout << i << " ";
             if (i==115)
             {
                 break;
@@ -32,7 +32,7 @@ int main(int argc, char const *argv[]){
             {
                 continue;
         }
-          cout < i << " ";
+          cout << i << " ";
         }   
 
         return 0;
