@@ -1,6 +1,6 @@
 #include <iostream>
 
-usig namespace std;
+using namespace std;
 
 int main( int argc, char const *argv[])
 {
