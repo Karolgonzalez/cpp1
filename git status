@@ -1,0 +1,417 @@
+[33mcommit c66a11686ce0b50f629ef3d4c5b4e9f3e789ce34[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 22:02:30 2020 -0600
+
+    Delete cpp
+
+[33mcommit 538047b0b75d1db10616dda38e48174af326f845[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 21:18:56 2020 -0600
+
+    aregando ejercicios
+
+[33mcommit 990f25f2fb259b4f9400277347e0b33d28258cb1[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 18:55:07 2020 -0600
+
+    agregando ejercicios
+
+[33mcommit d4bd7bad554dc32fb94c1bd9a010cbbe44d537ad[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 18:37:28 2020 -0600
+
+    agregando ejercicios
+
+[33mcommit aedfee882126a6f95a3b36743f5939d500ecbe2e[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 18:22:15 2020 -0600
+
+    agregando ejercicios
+
+[33mcommit 2980fd3c10ddac669587869ba3372d30923fc1d9[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 18:13:45 2020 -0600
+
+    agregando ejercicios
+
+[33mcommit fe817b471175389d27bc111dcdb161948cac5c4e[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 17:56:51 2020 -0600
+
+    Agregando ejercicio 47
+
+[33mcommit eb7901a671311760173c9613d3287c465c868afc[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 17:50:22 2020 -0600
+
+    Agregando ejercicio 46
+
+[33mcommit b5f7048d57f38c4e82d3dcd2a0a3759a9e5fe8a9[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 14:50:10 2020 -0600
+
+    Agregando ejercicios con archivo h
+
+[33mcommit 2e42734e1664c345fd1eb336a88aaf17707fc334[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 14:17:43 2020 -0600
+
+    Agregando ejercicios.
+
+[33mcommit 75d9142e53181113fb32338c48fb46dea94e3727[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 14:08:23 2020 -0600
+
+    Delete cpp
+
+[33mcommit b9a0f3d30634d27f172da870aa374fdd7efdaeb2[m
+Merge: 225b9fa 4a5b6f5
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 17 00:22:06 2020 -0600
+
+    Merge branch 'master' of https://github.com/Karolgonzalez/cpp
+    
+    # Conflicts:
+    #       LICENSE
+
+[33mcommit 4a5b6f5f0750b27e017639746334a253e02caea7[m
+Author: KarolGonzalez <67836548+Karolgonzalez@users.noreply.github.com>
+Date:   Sun Aug 16 23:45:51 2020 -0600
+
+    Initial commit
+
+[33mcommit 225b9fa73b98b6b01a9143de7da1dadc89156323[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Aug 16 23:26:21 2020 -0600
+
+    Agregando ejercicios
+
+[33mcommit 00e0d9019e4f68b68424bd314952f2b124dbf207[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Aug 16 21:50:16 2020 -0600
+
+    Agregando tarea 6
+
+[33mcommit 7502e9ef04971f8ffb28a3a19ef3bd24dc1e9b42[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Aug 16 21:46:34 2020 -0600
+
+    Agregando tarea 6
+
+[33mcommit 56721fdf493f72592260c927d737766132a8b776[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Aug 16 18:25:10 2020 -0600
+
+    agregando ejercicios de modulacion
+
+[33mcommit 88572454d4aa9340f468992438b01a6fc612090b[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Aug 16 17:59:04 2020 -0600
+
+    agregando ejercicios de modulacion
+
+[33mcommit 8dac164e338c801b155696b27656a25c93c91912[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Aug 16 17:37:55 2020 -0600
+
+    agregando repaso del 1er parcial
+
+[33mcommit b25e8fce239d4ee9fdf4677f515075cd2e82d951[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Aug 16 17:30:42 2020 -0600
+
+    agregando repaso del 1er parcial
+
+[33mcommit 823c37924f979e3978515c69c20cafe478e599ff[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Aug 16 17:08:05 2020 -0600
+
+    agregando ejercicio 36 alcance de variables
+
+[33mcommit 7a1f6d5a975ea89188db9a0783e54a4b61312465[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Aug 16 16:50:11 2020 -0600
+
+    agregando ejercicio 35
+
+[33mcommit b8813892847816d6a1474f5056a43441cafd975c[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Wed Aug 12 22:00:36 2020 -0600
+
+    agregando ejercicio 34
+
+[33mcommit c98be9a09ebc7c51143f6e5974b79465c01918ee[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Wed Aug 12 21:53:16 2020 -0600
+
+    agregando ejercicio 33 calculadora con switch
+
+[33mcommit 1e83237c3caf4eb6a7258fd2e607d514032b2119[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Wed Aug 12 21:47:44 2020 -0600
+
+    agregando ejercicio 32 calculadora funciones throw
+
+[33mcommit 570183b3d35fe6a080b9f84fe77259adcb8713a0[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Wed Aug 12 21:39:50 2020 -0600
+
+    Aregando ejercicio 31 calculadora con funciones
+
+[33mcommit b8aa947c40980ca3e9e3e7de41ab2e16eab0bd06[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Wed Aug 12 21:34:45 2020 -0600
+
+    agregrando ejercicio 30
+
+[33mcommit f890d1dd5717f39e6abeecb3e455e5ca48ef9007[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Wed Aug 12 21:28:05 2020 -0600
+
+    aregando ejercicio 29 funciones int
+
+[33mcommit e1e35831693111615e19d735643351d2402bb061[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Wed Aug 12 21:23:21 2020 -0600
+
+    Agregando ejercicio 28
+
+[33mcommit 5c5697fe83f63ba51fb162796e00c05ccaff503a[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Wed Aug 12 21:19:06 2020 -0600
+
+    Aregando ejercicio de repaso 2
+
+[33mcommit 9b12c1a28988627f5fc27fccb43f73cf9fa2194d[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Wed Aug 12 21:07:07 2020 -0600
+
+    agregando repaso 1
+
+[33mcommit 965fc405a983cc95f79a05470d606d544f0783f2[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Aug 3 23:00:16 2020 -0600
+
+    Agregando ejercicios 40, 41, 42
+
+[33mcommit ea56bf7de180839553761575018ced4d329cf78a[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 27 23:43:16 2020 -0600
+
+    Agregando ejercicio de pares e impares
+
+[33mcommit bd04d743d59a49826809101c494c907746c28639[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 27 23:09:44 2020 -0600
+
+    agregando ejercicio pares
+
+[33mcommit 1a9687587a914afbd29da647d0ff69897ba962b8[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 27 22:51:52 2020 -0600
+
+    Agregando ejercicios ciclos for variantes
+
+[33mcommit 71edbb50dd2c928545e2a7fc1a90106a504344d1[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 27 22:31:46 2020 -0600
+
+    Agregando ejercicio ciclo for
+
+[33mcommit 00fdb1cb1ba3451a7b2342bebefd5d1a917ae272[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 27 21:50:00 2020 -0600
+
+    Agregando ejercicio con switch
+
+[33mcommit 820406238397f3579eee9912594e4ba9473b86c2[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 27 00:59:18 2020 -0600
+
+    agregando ejercicio 20 switch
+
+[33mcommit de04c891e80f2c16d15bf86022e47e9a4a3e3949[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 27 00:56:28 2020 -0600
+
+    agregando ejercicio 20 switch
+
+[33mcommit 2d534aaacfdf7689217d2704a508fd900fdf465e[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 27 00:22:11 2020 -0600
+
+    Agregando ejercicio 19 do while
+
+[33mcommit cf205ccb26bd22bf576a4b3033935658206242bc[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 27 00:13:07 2020 -0600
+
+    agregando ejerciciodo while
+
+[33mcommit f7ec2477c9b4fc6e243b42c04904a951b5a7d421[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 27 00:00:08 2020 -0600
+
+    Aregando  ejercicio 18 menu
+
+[33mcommit 690be3d3bc3a121b66a0c4e6106e47bcf61c5d5d[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Jul 26 23:48:53 2020 -0600
+
+    Ejercicio 18 menu
+
+[33mcommit e56c67ac264c1b7cbf4a1997e7dd61465da28300[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Jul 26 23:06:09 2020 -0600
+
+    agregando ejercicio 17
+
+[33mcommit 6690c786856ad3cd4272d5928e3d043c89fc65ad[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Jul 26 22:55:12 2020 -0600
+
+    Ejercicio 16 Ciclos While
+
+[33mcommit d64e0bf057255df5ae383e54a243da038c78a902[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Jul 26 22:42:37 2020 -0600
+
+    agregando ejercicio14
+
+[33mcommit efd2c50dffc8e1a2e3188a1f6cd72884ab50a5cb[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Jul 26 18:29:21 2020 -0600
+
+    Agregando examen del primer parcial
+
+[33mcommit 8d347ccfaf58112d55ec803ee6550a890e5fd19e[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Sun Jul 26 18:20:08 2020 -0600
+
+    agregando examen del primer parcial
+
+[33mcommit b80b0d350e32f45fb26aeecaa3c6b2b1d6dc51a9[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Tue Jul 21 00:02:35 2020 -0600
+
+    Agregando ejercicio 15 notas completas
+
+[33mcommit ace440314f7b2c059008898ae3dfbe4c3b605aed[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Tue Jul 21 00:00:11 2020 -0600
+
+    Agregando ejercicio 15 notas completas
+
+[33mcommit 9a4ed4cdc2b16d2b57566bf6d87ea81ac4d33553[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 20 23:58:10 2020 -0600
+
+    Agregando ejercicio 14
+
+[33mcommit c0f6e110c566f61dd2e477b2980d0339f1a07337[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 20 23:52:22 2020 -0600
+
+    ejercicio 15 notas completas
+
+[33mcommit a9dfa0ed002ce7d4153569c3c686f244ece92b99[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 20 23:24:17 2020 -0600
+
+    Agregando ejercicio 13 notas
+
+[33mcommit b8c042bbe831d3373d24e9f5bfd8653bc35b76ff[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 20 22:42:02 2020 -0600
+
+    Agregando ejercicio con operador or
+
+[33mcommit 59899a0b786d410dbe7b0b89c7adaca1a357d734[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 20 22:37:21 2020 -0600
+
+    Ejercicio 12 operador or
+
+[33mcommit 95331540e09dc8d000d770fd89fe929a03fad90d[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 20 22:10:41 2020 -0600
+
+    Operador logico and
+
+[33mcommit bdfa4ba30866693e8ed63c7666ef4c03ddede32c[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 20 21:20:21 2020 -0600
+
+    Agregando ejercicio 10 if anidado
+
+[33mcommit 27e6f0a38c3bf05b4ac009f3bb881aa6896bb221[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 20 19:29:30 2020 -0600
+
+    Agregando ejercicio if
+
+[33mcommit 4e729f906b66763f47b69617284fd9e0008dfa47[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 13 21:04:38 2020 -0600
+
+    Agregando factura con descuento
+
+[33mcommit 6b153c3e6ca42f90e5210d66d3d4cdb78bbba61b[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 13 20:50:33 2020 -0600
+
+    Agregando ejercicio factura
+
+[33mcommit e3500b653a15a383be8df1c2c99f943646a0ed2a[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 13 20:20:30 2020 -0600
+
+    Agregando ejercicio 6
+
+[33mcommit 142a7d80adc3d9c0efa8c7f2a56a05e19a0518f9[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 13 18:33:54 2020 -0600
+
+    Agregando ejercicio 5 del programa suma
+
+[33mcommit 8091024dbe1c0b6ddc08e8041d3f03476b3391a3[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 13 18:02:50 2020 -0600
+
+    Agregando ejercicio 4 y 5
+
+[33mcommit 354bd4a7156355cdc3cba21cbcc2b5e7ba8c3be7[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 6 21:10:48 2020 -0600
+
+    Agregando Ejercicio 2
+
+[33mcommit 3c6b2624967559bf33b871d55810e6b6ecfa74e6[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 6 20:15:50 2020 -0600
+
+    Agregando ejercicio 1.txt
+
+[33mcommit 0739cef5aca3f551b540188e538578df9e254c3e[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 6 20:08:34 2020 -0600
+
+    Eliminando hola.txt
+
+[33mcommit 6b492859b8447f6b4e6697c66b812eb490b0fb7e[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 6 19:57:00 2020 -0600
+
+    Modificando hola.txt
+
+[33mcommit 3fc0d2e182ae97874d9d23a0bf0382308391c8bd[m
+Author: Karol Gonzalez <gisellcastro83@gmail.com>
+Date:   Mon Jul 6 19:40:11 2020 -0600
+
+    Prueba de git
+
+[33mcommit 2b7c85a219406d93b6c826262d5387186398f680[m
+Author: KaroGonzalez <67836548+Karolgonzalez@users.noreply.github.com>
+Date:   Sun Jul 5 19:41:24 2020 -0600
+
+    Initial commit
