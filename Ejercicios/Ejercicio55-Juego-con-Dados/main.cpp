@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
+
 using namespace std;
 
 int dado1,dado2;
