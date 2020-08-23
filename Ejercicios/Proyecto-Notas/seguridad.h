@@ -1,0 +1,2 @@
+bool login ();
+bool changePassword();
